@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\MainMS\MainMS\bin\Debug\MainMS.exe.config
+C:\Users\user\source\repos\MainMS\MainMS\bin\Debug\MainMS.exe
+C:\Users\user\source\repos\MainMS\MainMS\bin\Debug\MainMS.pdb
+C:\Users\user\source\repos\MainMS\MainMS\obj\Debug\MainMS.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\MainMS\MainMS\obj\Debug\MainMS.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MainMS\MainMS\obj\Debug\MainMS.exe
+C:\Users\user\source\repos\MainMS\MainMS\obj\Debug\MainMS.pdb
