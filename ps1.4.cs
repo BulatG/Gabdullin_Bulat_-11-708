@@ -8,6 +8,7 @@ namespace ps1._4
 {
     class Program
     {
+	// ---check--- всё-таки смущает название метода и тип, который он возвращает, было бы логичнее bool
         public static int IsDegree(int a)
         {
             int k = 1;
